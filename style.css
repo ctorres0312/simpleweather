@@ -1,0 +1,33 @@
+* {
+text-align: center;
+font-family: 'Rowdies', cursive;
+letter-spacing: 2.5px;
+}
+
+body {
+    background-color: rgb(3, 15, 57);
+  }
+
+  #app-name {
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+  }
+
+h3{
+    color: rgb(255, 255, 255);
+    font-size: x-large;
+}
+
+#weather {
+    color: rgb(255, 255, 255);
+}
+
+#enter-city {
+    color: rgb(255, 255, 255);
+    font-size: larger;
+}
+
+
+#weather-logo {
+    height: 40px;
+}
